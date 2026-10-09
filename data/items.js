@@ -118,5 +118,3 @@ const items = [
         },
     }
 ];
-
-data/items.js
