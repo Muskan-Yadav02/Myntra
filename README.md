@@ -34,7 +34,7 @@ Follow these steps to run the project locally.
 The objective of this project is to improve front-end development skills, practice responsive web design, and understand the layout and structure of a modern fashion e-commerce website.
 
 ## 👩‍💻 Author
-Muskan Yadav
+**Muskan Yadav**
 GitHub: [Muskan-Yadav02](https://github.com/Muskan-Yadav02)
 ⭐ If you find this project useful, feel free to star the repository!
 
